@@ -21,7 +21,6 @@ The Vendor Management System (VMS) is built with Node.js and the NestJS framewor
 
 ## Installation
 
-### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/shivani-2705/vendor-management-system.git
